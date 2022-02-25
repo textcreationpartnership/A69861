@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The] Distressed child, or, The Cruel uncle</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69861</idno>
+            <idno type="STC">Wing D1700</idno>
+            <idno type="STC">ESTC R30982</idno>
+            <idno type="EEBO-CITATION">11753012</idno>
+            <idno type="OCLC">ocm 11753012</idno>
+            <idno type="VID">48619</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48619)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1033:9 or 1483:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The] Distressed child, or, The Cruel uncle</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Brown,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint date suggested by Wing.</note>
+                  <note>Also appears on reel 1033:9.</note>
+                  <note>Imperfect: Pages cropped, faded and stained with slight loss of print.</note>
+                  <note>Includes postscript: p. 6.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Abandoned children --  England --  17th century.</term>
+               <term>Custody of children --  England --  17th century.</term>
+               <term>Child abuse --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48619:1"/>
+            <pb facs="tcp:48619:1" rendition="simple:additions"/>
+            <p>
+               <hi>Diſtreſſed CHILD,</hi> OR, The Cruel Uncle: BEING A True and Diſmal Relation of one Eſq; <hi>Solmes</hi> of <hi>Beverly</hi> in <hi>Yorkſhire;</hi> who dying, leſt an only In<g ref="char:EOLhyphen"/>fant Daughter, of the Age of two Years, to the care of his own Brother; who with many Oaths, Vows, and Proteſtations, promiſed to be loving to her; but her Father was no ſooner Dead, but out of a wicked Co<g ref="char:EOLhyphen"/>vetouſneſs of the Child's Eſtate of three hundred Pounds a Year, carry'd it into a Wood, and there put it in a Hallow-Tree to Starve it to Death: Where a Gentle<g ref="char:EOLhyphen"/>man and his Man being a Hunting two Days after, found it half Famiſhed, having gnawed its own Fleſh and Fingers ends in a dreadful manner. With an Account how the Cruel Uncle to hide his Villany, had cauſed the <hi>Child's Effigies</hi> to be buried in Wax, and made a great Funeral, as if it had been really Dead: With the manner of the whole diſcovery by a Dream, and taking the Wax-Child out of the Grave. With the Uncle's Apprehenſion, Examination, and Confeſſion before Juſtice <hi>Seubbs,</hi> and his Commitment to Goal, in order to be Try'd the next Aſſizes, for that barbarous Action. Note, <hi>This Relation will be atteſted at the</hi> Three-Nuns, <hi>and</hi> Rummer-<hi>Tavern without</hi> Aldgate: <hi>As alſo at the</hi> Three-Cups <hi>in</hi> Alderſgate-<hi>ſtreet,</hi> by the <hi>Huttington</hi>-Carriers, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>Licens'd and enter'd according to Order.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>D. Brown</hi> in <hi>Bartholomew Cloſe.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="2" facs="tcp:48619:2"/>
+            <head>
+               <hi>The Inhumane Brother,</hi> &amp;c.</head>
+            <head type="sub">The Love of <hi>Money</hi> is the Root of all <hi>Evil;</hi> and is the Cauſe of the moſt barbarous Vices, as may be ſeen by this following Example.</head>
+            <p>IN the Town of <hi>Beverly</hi> in <hi>Yorkſhire,</hi> about two Months ago, there lived one Squire <hi>Solmes,</hi> a very Honeſt Gentle<g ref="char:EOLhyphen"/>man of about Three Hundred <hi>per Ann.</hi> His Wife dying, by whom he had one little Daughter about two Years of Age, he continued ſome Months a ſorrowful Widower, he cou'd not well enjoy him<g ref="char:EOLhyphen"/>ſelf after the Loſs of his Dear Spouſe: And it ſo happened, that partly out of Grief, partly from a violent Fever, he was brought to his Bed of Sickneſs, where he continued not long, for he died within a Fortnight after he was taken
+<pb n="3" facs="tcp:48619:2"/>by that Fever. He expreſſed a great concern for little Girl; and therefore call'd his Brother, a Gentleman that lived about 14 Miles from him, and beg<g ref="char:EOLhyphen"/>ged him to take care of his Daughter upon him. <hi>Brother,</hi> ſaid he, <hi>I leave with you the Deareſt Thing that I have in the World, my little Daughter, and with her to you I intruſt my Eſtate; ma<g ref="char:EOLhyphen"/>nage it for her Uſe, and take care of her Education in Vertue and Religion; uſe her as if ſhe were your own, and for my Sake ſee her married to an Honeſt Country Gentleman.</hi>
+            </p>
+            <p>All which was faithfully promis'd by the Brother: Thus when all things were ſettled, the Gentleman dies, and the Bro<g ref="char:EOLhyphen"/>ther takes Home the Child to his Houſe, and for ſome time us'd her kindly. But at the laſt the <hi>D</hi>—<hi>l</hi> of <hi>Covetouſneſs</hi> poſ<g ref="char:EOLhyphen"/>ſeſs'd him; nothing run in his Mind ſo much as making away with the Child, and ſo poſſeſs the Eſtate. After many ways, he at laſt concluded to take her with him, and hide her in a hollow Tree: Which
+<pb n="4" facs="tcp:48619:3"/>one Morning he effected, and left the poor Infant with her Mouth ſtopp'd that ſhe might not cry. For he had ſo much Grace, not actually to Murder her, there<g ref="char:EOLhyphen"/>fore he left her alive in the hollow of the Tree; and the better to hide the Matter, gave out that the Child was Dead; and therefore caus'd an Effigie of Wax to be made, laid it in a Coffin, and a Shrowd, and made a great Funeral for the Child. Thus the Effigie was buried, and no no<g ref="char:EOLhyphen"/>tice at all taken of the Matter. At the ſame time, a Neighbouring Gentleman Dream'd, That that Day he ſhou'd ſee ſomething that wou'd ſufficiently aſtoniſht him: He told it to his Lady, who diſ<g ref="char:EOLhyphen"/>ſwaded him from going a Hunting that Day; but he was reſolved, not giving any credit to Dreams, and ſo takes Horſe in the Morning: As he was a Hunting, he happen'd to be in the Wood where the Child was. And as he was Riding by the Tree, his Horſe gave a great ſtart, ſo that he had lik'd to have fallen down; and turning about to ſee what was the matter,
+<pb n="5" facs="tcp:48619:3"/>he ſaw ſome thing ſtir in a hole; and be<g ref="char:EOLhyphen"/>ing inquiſitive to know the Cauſe, his Dream preſently came in his Head. And therefore he calls his Man, and bids him examine what was in the hole: Who ha<g ref="char:EOLhyphen"/>ving ſearch'd the Tree, diſcovers the Child in the Tree. He took it out, and his Ma<g ref="char:EOLhyphen"/>ſter carried it to his Lady almoſt Dead; he told him his Dream was out, declaring how he found the Child, and begg'd her to take Care of it. The Child was reviv'd, and in a little time brought to its ſelf a<g ref="char:EOLhyphen"/>gain; but they could not imagine whoſe it was; till at laſt it happen'd that ſome Women came to the Gentleman's Houſe a Singing at <hi>Chriſtmas;</hi> and ſeeing the Child, knew it, and declar'd whoſe it was, and that it was ſuppos'd to be dead and buried. The Gentleman goes and prevails with the Miniſter of the Pariſh to have the Grave opened, and found the Waxen-Effigie of the Child in the Grave. He went to the Juſtice of the Peace. to whom he declared the matter; who ſent his Warrant for the Child's Truſtee: Who being convicted of
+<pb n="6" facs="tcp:48619:4"/>the matter, was not able to deny it, but confeſs'd all the buſineſs. But ſeeing the Child was alive, 'tis ſuppos'd he will not be tried for his Life; but 'tis thought a ſevere Puniſhment will be inflicted on him; and the Juſtice appointed the Gen<g ref="char:EOLhyphen"/>tleman that found the Child, to be its Truſtee, till the <hi>Aſſizes.</hi> The Child is now at the Gentleman's Houſe, who loves it as if it was his own; for he has no Children himſelf, and is a Man of a good Eſtate, and is likely to augment very much the Child's Fortune.</p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>WE have this further Account from <hi>Huttington</hi> concerning the Child aforeſaid, That when the Gentleman and his Man found it in the hollow Tree, it was almoſt quite Dead, it having been put there by the Inhumane Uncle two Days before, ſo that the poor innocent Creature for meer Hunger, had in a lamentable manner ſuck'd and knaw'd its own Fin<g ref="char:EOLhyphen"/>gers ends till the Blood ran about its Cheeks and Mouth to ſuch a degree, that when it was brought to the Gentleman's Lady, ſhe fell in a Swoon at the ſight of it.</p>
+            <pb n="7" facs="tcp:48619:4"/>
+            <p>The manner of the whole Diſcovery of the Uncle's <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ickedneſs, was thus: He having ſome time before got the Child's Effigies exactly made in Wax, as aboveſaid, gave out the Child was Dead; and thereupon bought Mourning, and buried the ſaid Counterfeit Corps in a Stately and Sumptuous manner: And he being a Rich Man none in the leaſt had any Suſpicion of his being Guilty of ſo barbarous a Wickedneſs, as to make away with his Brother's Child: So that had not Divine Pro<g ref="char:EOLhyphen"/>vidence, in almoſt a Miraculous manner preſerv'd the Child's Life, it would have been impoſſible by humane Endeavours to have detected him of the Crime. Howe<g ref="char:EOLhyphen"/>ver, after he thought himſelf paſt danger, a Woman that had often ſeen the ſaid Child at his Houſe, hap<g ref="char:EOLhyphen"/>pened after to came by the Gentleman's Door ſome days after it was found, and ſeeing it in the Maid's Arms, (the Gentleman being by) ſays ſhe, <hi>That Child is as like Squire</hi> Solmes<hi>'s little Daughter as one Apple is like another;</hi> and further added, <hi>that if</hi> (quoth ſhe) <hi>I had not ſeen his Child buried ſome days ago, I ſhould have poſitively ſworn it had been the ſame Child:</hi> Upon which the Gentleman called her into his Houſe, and told her the whole Story, how and where he found it almoſt ſtarv'd to Death, in a hollow Oaken-Tree as he was a Hunting; ſo that getting Know<g ref="char:EOLhyphen"/>ledge of the Woman where Mr. <hi>Solmes</hi> Liv'd, he was firſt of all Apprehended and kept in Cuſtody till the Grave was opened, at which time the Wax Child was taken out, to the Uncle's great Shame and Confuſion; and the more, when the Gentleman told him how he found the living Child in the hollow Tree as he was Hunting: Upon which he confeſs'd the whole
+<pb n="8" facs="tcp:48619:5"/>matter to the <hi>Juſtice,</hi> and wrung his Ha<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mented after a ſad and diſmal mann<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> guilty of ſuch a monſtrous B<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Fleſh and Blood.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="apothecarys_advertisement">
+            <head>Advertiſement.</head>
+            <p>THe beſt and moſt Experienced Romedy for <hi>Sore</hi> or <hi>Weak Eyes,</hi> that ever yet was made known to the World, being of that wonderful Efficacy, that it infalli<g ref="char:EOLhyphen"/>bly diſpels any <hi>Humour</hi> or <hi>Salt Rheum</hi> diſtilling from the Head; and takes away all Soreneſs, or Redneſs: or Swel<g ref="char:EOLhyphen"/>ling: It alſo ſtrengthons <hi>weak Eyes</hi> (ſometines occaſion'd by the <hi>Small-Pox</hi>) and will diſperſe any <hi>Films</hi> or <hi>Cataract</hi> growing over the <hi>Eye,</hi> whereby the Sight oftentimes becomes dim; in a few times uſing this Excellent Remedy, to thoſe that will be perſwaded to uſe it often, it will preſerve the <hi>Sight</hi> to an incredible Age, and read the ſmalleſt of Prints. It being a Sacret acquired by a Gentleman in his long Stu<g ref="char:EOLhyphen"/>dy, whereby he has wrought wonderful <hi>Cures</hi> among his Relations and Acquaintance; and now made publick for the Benefit of all People that will make tryal of it.</p>
+            <p>For thoſe that are really <hi>Poor</hi> they ſhall have it for Nothing; to Others for <hi>6 d.</hi> the <hi>Bottle.</hi>
+            </p>
+            <p>To be had only at the <hi>Bible</hi> in <hi>Weſtmoreland-Court</hi> in <hi>Bartholomew-Cloſe,</hi> near <hi>Weſt-Smithfield.</hi>
+            </p>
+            <pb facs="tcp:48619:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
